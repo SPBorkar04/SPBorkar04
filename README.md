@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Metagenomic NGS
+- 🌱 I’m currently learning sequence assembly and annotation. 
+
 
 <!--
 **SPBorkar04/SPBorkar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
